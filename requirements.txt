@@ -1,1 +1,4 @@
-discord.py==2.1.0
+discord.py
+asyncio
+openpyxl
+schedule
