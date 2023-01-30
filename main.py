@@ -15,7 +15,7 @@ from openpyxl import load_workbook, Workbook
 import time
 from apscheduler.schedulers.background import BackgroundScheduler
 
-token = 'MTA1NTA0NTI0MDQ5MjQwODkwMw.GF9pY5.Ps3rRR4dkPbDq0JrUugozaMibL2UE0Zeyt0TpA'
+token = ''
 
 ############################게임 확률 명령어###############################
 
